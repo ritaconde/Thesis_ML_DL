@@ -4,7 +4,7 @@ In ML models, it was applied seven model types: SVM, Random Forest, Linear Regre
 In DL models we preform three types of models: CNN, RNN and hybrid CNN-RNN.
 
 The general pipeline is shown below:
-![esquema_ml](https://user-images.githubusercontent.com/63756398/158067552-36eecd99-4cc5-4fc5-9347-ab8af88f27ac.png)
+![esquema_ml_dl](https://user-images.githubusercontent.com/63756398/160292965-d23d9ab7-8ec1-4ca0-97b2-6c7751b2ec93.png)
 
 
 ## Dependencies
